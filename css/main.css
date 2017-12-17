@@ -1,0 +1,24 @@
+.buzz {
+	height: 20px;
+	width: 20px;
+	position: absolute;
+}
+
+html {
+    background: url("../img/background.png") center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%
+}
+
+header, .full-width {
+  width: 100%;
+  background: #ccc;
+}
+.wrap {
+  width: 80%;
+  max-width: 24em;
+  margin: 0 auto;
+  padding: 0.25em 0.625em;
+}
